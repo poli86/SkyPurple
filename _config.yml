@@ -17,7 +17,7 @@ title: SkyPurple
 email: atanasovn636@gmai.com
 description: The last web agenccy you will ever need!
 destination: docs
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "skypurple" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: poliatanasova
 github_username:  poli86
